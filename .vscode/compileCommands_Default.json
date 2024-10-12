@@ -1,0 +1,122 @@
+[
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\MidnightBeyond.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\MidnightBeyond.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\MidnightBeyond.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\MidnightBeyondCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\MidnightBeyondCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\MidnightBeyondGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\MidnightBeyondGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\MidnightBeyondPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\MidnightBeyondPlayerController.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\MidnightBeyondProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\MidnightBeyondProjectile.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\Source\\MidnightBeyond\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Dev\\Gamedev\\Unreal\\GameJam\\24\\MidnightBeyond\\.vscode\\compileCommands_Default\\MidnightBeyond.1.rsp"
+		],
+		"directory": "E:\\EpicGames\\UE_5.5\\Engine\\Source"
+	}
+]
